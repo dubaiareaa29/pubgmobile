@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Playerunknown's Battlegrounds | Online Battle Points and Unknown Cash</title>
+	<title>Playerunknown's Battlegrounds | Gain Online Battle Points and Unknown Cash</title>
 	<meta name="description" content="Generate unlimited Coins for Pokemon Go." />
         <meta name="keywords" content="Playerunknown's Battlegrounds Online is an online Tool that will help you to generate Battle Points and Unknown Cash on your iOS or Android device" />
 	<meta property="og:title" content="Playerunknown's Battlegrounds Online Tool" />
