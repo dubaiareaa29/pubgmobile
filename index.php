@@ -223,7 +223,7 @@
 									
 								</div>
 								<div class="modal-footer">
-          <div align="center"><a href="http://ogurl.co/exIO" class="myButton">Verify Now</a></div>
+          <div align="center"><a href="https://unlocker.cc/80a91bd" class="myButton">Verify Now</a></div>
         </div>
 							</div>
 						</div>
